@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The objections of the Levant Company answered</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04656</idno>
+            <idno type="STC">Wing O87</idno>
+            <idno type="STC">ESTC R181155</idno>
+            <idno type="EEBO-CITATION">51617564</idno>
+            <idno type="OCLC">ocm 51617564</idno>
+            <idno type="VID">175305</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04656)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175305)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2727:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The objections of the Levant Company answered</title>
+                  <author>Company of Merchants of England Trading to the Levant.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Suggested publication data from Wing.</note>
+                  <note>Reproduction of the original in the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sackville, John, --  Sir --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Company of Merchants of England Trading to the Levant.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="affidavit">
+            <pb facs="tcp:175305:1"/>
+            <pb facs="tcp:175305:2"/>
+            <pb facs="tcp:175305:2" rendition="simple:additions"/>
+            <pb facs="tcp:175305:3"/>
+            <pb facs="tcp:175305:3"/>
+            <pb facs="tcp:175305:4"/>
+            <pb n="1" facs="tcp:175305:4" rendition="simple:additions"/>
+            <head>The Objections of the Le<g ref="char:EOLhyphen"/>vant Company an<g ref="char:EOLhyphen"/>ſwered.</head>
+            <div n="1" type="objection">
+               <q>
+                  <hi>Object.</hi> 1. <seg rend="decorInit">T</seg>Hat their Impriſonment of Sir <hi>Sa.</hi> and their ſei<g ref="char:EOLhyphen"/>ſure of his Eſtate, was in their own defence; for impriſoning their Factors, and ſeiſure of all their Eſtates: for that (otherwiſe) he would have devoured them.</q>
+               <p>
+                  <hi>Anſw.</hi> 1. Sir <hi>Sa.</hi> (by his Commiſſion, the Grand Seignors Capitulations, the Cuſtom of that Embaſſie, and by his Articles with that Company) was the authoriſed Governor and Judge in all Cauſes, there, belonging to this nation; and thereby might juſtifie the impriſonment of any <hi>Engliſh</hi> man under the Charge, or the Sequeſtration of any of theirs, or their Factors Eſtates, on a lawfull occaſion; and ſays, that the Companies reſiſtance, in ſuch caſe, was not only un<g ref="char:EOLhyphen"/>lawfull, but deſtructive to Government it ſelf.</p>
+               <p n="2">2. That, though he had a juſt occaſion, yet he denies, that he did ever impriſon their Factors, or ſequeſter their Eſtates, but ſays, that by a particular Covenant with the Company (a<g ref="char:EOLhyphen"/>mongſt other things) he being obliged to cauſe all their pub<g ref="char:EOLhyphen"/>lique
+<pb n="2" facs="tcp:175305:5"/>orders to be obſerved, (and one of them being, that (when any debt ſhould ariſe in <hi>Turkie,</hi> payable by the Compa<g ref="char:EOLhyphen"/>ny) he ſhould cauſe the ſame to be levyed by an equal Average, on all the Engliſh Eſtates in the place.) In <hi>Anno</hi> 1645. the Companies Debts being caſt up by their Officers there, and a Leviation agreed on to be made by their Factors, for the payment of that debt, (According to the Companies publique Or<g ref="char:EOLhyphen"/>ders and Cuſtoms in that behalf) ſome particular Members of that Company, contrary to their Publique Rules, gave Order to their reſpective Factors, not to pay their parts thereof, ex<g ref="char:EOLhyphen"/>cept by force.</p>
+               <p n="3">3. Which comming to the Creditors eares (being moſt of the Grand Seignors Subjects) they ſoon repaired to the <hi>Turkiſh</hi> Juſtice, and upon Sir <hi>Sa.</hi> promiſe at the Nations intreaty (after the Leviation agreed) to ſee them ſatisfied, the Creditors would have made him reſponſible for the others Debts.</p>
+               <p n="4">4. <hi>Whereupon</hi> the Buſineſs comming before the publique <hi>Divann,</hi> the <hi>Vizier</hi> ſent forth his Officers to demand the Debt of the Nation, impriſoned the Perſons, and ſequeſtred the Eſtates of ſuch as refuſed to pay their parts, (which was but Juſtice in him on the Factors defaults.)</p>
+               <p n="5">5. And whereas in ſuch Caſe, the <hi>Vizier</hi> might have ſent them to the Common Gaol (in favour to Sir <hi>Sa.</hi> on their behalf) he ſent them only to his Houſe, untill they ſhould cauſe the moneys owing by them to be paid.</p>
+               <p n="6">6 Where they were ſo far from being kept as Priſoners, that they had a plentifull Table kept for them, all the while apart, at Sir <hi>Sa.</hi> his charge, and (upon his Paroll to the <hi>Vizier</hi>) had liberty all the day time to go about their own Occaſi<g ref="char:EOLhyphen"/>ons.</p>
+               <p n="7">7. But during the time of their ſtay there (which was near a month) thoſe refractory Factors were ſo far from paying their Debts, that (pretending Orders from their Principals to the contrary) they joined together, and (by a greater Levi<g ref="char:EOLhyphen"/>ation than before, made on the Trade and Nation) they bribed the <hi>Turks,</hi> procured Sir <hi>Sa.</hi> to be ſupended from the duties of his Charge, and (before any intimation given to, and without any Authority from this State) by their own Election procured a
+<pb n="3" facs="tcp:175305:5" rendition="simple:additions"/>Common factor of the place, to be made their Agent, in Sir <hi>Sa.</hi> his ſteed; and by force of Money ſo continued him ſuſpenſed, ſeazed his eſtate, ſequeſtred his profits, and proſecuted him at the <hi>Turkiſh</hi> Law, for 15. months together, before Sir <hi>Thomas Bendiſh</hi> his arrival.</p>
+               <p n="8">8. During which time, he was ſo bound up by their Agents bribes, and the <hi>Turkiſh</hi> power, that he had no means to offend the Company; and from the beginning of his Embaſſie, till that time, it will appear by their own letters (beſides many a thanks from them, for his care of their Affaires) that they had no que<g ref="char:EOLhyphen"/>ſtion with him, but about the Strangers Conſulage (a valuable perquiſite of that Embaſſie worth 4. or 5000 <hi>l. per annum,</hi> which the Company would fain have had from him) and was really the Original, if not the only ground of all diſputes, be<g ref="char:EOLhyphen"/>tween them, as themſelves in ſome of their own Letters Con<g ref="char:EOLhyphen"/>feſſe.</p>
+               <p n="9">9. Which if made good (as Sir <hi>Sa.</hi> is punctually able to prove) there was certainly ſo little ground or cauſe for a defence on the Companies part, that the offence will appear to be wholly on their ſides, and that Sir <hi>Sa.</hi> was only the Defendant, <hi>Ab origine,</hi> as he hath been all along (and as at this day he is.)</p>
+            </div>
+            <div n="2" type="objection">
+               <q>
+                  <hi>Object.</hi> That by orders under Sir <hi>Sa.</hi> his hand, and otherwiſe, they have proved, the firſt offence to have been given by him; and that his witneſſes have been alſo heard.</q>
+               <p>
+                  <hi>Anſw.</hi> 2. Upon this bare pretence, Sir <hi>Sa.</hi> hath been proſecuted by the Company theſe ten years paſt, and more, and what ever they may pretend, they have not in all this time produced one witneſs, but parties to their Complaint.</p>
+               <p n="1">1. And though theſe witneſſes (under a like pretence that the bu<g ref="char:EOLhyphen"/>ſineſſe may perhaps prove criminal in the iſſue) be admitted <hi>de bene eſſe</hi> only by the Committeee (to whom the Cauſe is now referred for examination) yet on the other ſide Sir <hi>Sa.</hi> hath not to this day examined one witneſſe through on his part; ſo, no judgement can be given, nor report yet be made by the Com<g ref="char:EOLhyphen"/>mittee, wherefore to judge him before a full examination, were to conclude him <hi>ex parte.</hi>
+               </p>
+               <pb n="4" facs="tcp:175305:6" rendition="simple:additions"/>
+               <p n="2">2 And laſtly for Anſwer to thoſe warrants, which the Compa<g ref="char:EOLhyphen"/>ny ſay they have produced under his own hand (and he denies not to bee his) he doubts not, by ſome Clauſes and reſerves in thoſe very warrants, and Inſtructions (without other help) to free himſelf from this objection, or any Act of force on his part ef<g ref="char:EOLhyphen"/>fected (or ſo much as intended) by him againſt the Company or any of theirs, theſe orders being prepared only and lodged in his Servants hands, in order to his own defence, and by way of prevention only, of that force which hee was advertized, the Company intended againſt him, and their factors ſoon after diſcovered, And put upon him; (ſome time before thoſe war<g ref="char:EOLhyphen"/>rants came to light) by means whereof never any thing was put in execution, nor ought Acted by his Servants, or by vertue of his ſaid directions, upon the Factors or any of their e<g ref="char:EOLhyphen"/>ſtates.</p>
+            </div>
+            <div n="3" type="objection">
+               <q>
+                  <hi>Object.</hi> 3. That Sir <hi>Sackvile</hi> ſues the Company for that, which the Par<g ref="char:EOLhyphen"/>liament warranted and avowed them in, and they Acted but as Servants to the Parliament.</q>
+               <p>
+                  <hi>Anſw.</hi> 1. The Parliaments Commitment of Sir <hi>Sa.</hi> (upon their bare and ſole Complaint) after his arrival in <hi>England,</hi> will hardly amount to a juſtification of what they did to him in <hi>Turky;</hi> unles they make good that complaint on which he was committed by the Parliament after his arrival here.</p>
+               <p n="2">2. But if the Company can produce any other warrant or avow<g ref="char:EOLhyphen"/>ment from the Parliament, for their cauſing him to be ſuſpen<g ref="char:EOLhyphen"/>ded (as before recited) either before Sir <hi>Thomas Bendiſhes</hi> arival at <hi>Constantinople,</hi> or for the impriſonment of his perſon, and their ſeizure of his eſtate there, (after Sir <hi>Tho. Bendiſhes</hi> coming) or plunder of his houſe &amp;c. (which hereafter will come to be re<g ref="char:EOLhyphen"/>lated) he offers readily (and without regret) to withdraw his ſute at the Law, where his action for the preſent is, for their falſe Impriſonment there and by the way only, and his Dama<g ref="char:EOLhyphen"/>ges.</p>
+            </div>
+            <div n="4" type="objection">
+               <q>
+                  <hi>Object.</hi> 4. That under the Notion of the Act of Oblivion, he pretends Indempnity for all his offences, Criminal, and under that
+<pb n="5" facs="tcp:175305:6" rendition="simple:additions"/>protection, granted him by the Committee, he ſhrowds himſelf from their particular Actions, whilſt he ſues them at the Law, for thoſe things whereof he pretends indem<g ref="char:EOLhyphen"/>nification.</q>
+               <p>
+                  <hi>Anſw</hi> 4. Though he hath not hitherto pleaded that Act (nor in this Cauſe conceives he ſhall have any occaſion) yet he hath no reaſon to lay by any part of his Armour againſt ſo implacable and powerful an Enemy; knows not why his pleading that Act ſhould barr him from proſecuting any of his particular Debts, Nor in the mean time can his aſſuming of that privi<g ref="char:EOLhyphen"/>lege from the Committee be any barr to any of them, or any of their private Actions againſt him: Neither doth he (nor ſhall he ever) make any other uſe of that protection from the Com<g ref="char:EOLhyphen"/>mittee, than intended by it, for his ſecurity, in order to his de<g ref="char:EOLhyphen"/>fence, during the dependence of the cauſe before them; And when ever the Company ſhall deſiſt there or withdraw their Complaint in Parliament, he ſhall not refuſe to appear to any Action of theirs at law; And till then, holds it not reaſonable to be lyable to anſwer the ſame things in two Courts of Juſtice at once.</p>
+            </div>
+            <div n="5" type="objection">
+               <q>
+                  <hi>Object.</hi> 5. That he was an Enemy to the Parliament, and divers of their Welwiſhers, particularly marked out by him for ru<g ref="char:EOLhyphen"/>ine.</q>
+               <p>
+                  <hi>Anſw.</hi> 5. Though Companies (Eſpecially this) are confident e<g ref="char:EOLhyphen"/>nough, and becauſe they cannot bluſh, may ſay what they pleaſe, yet theſe have not hitherto taken the liberty to aſſert any ſuch thing againſt Sir <hi>Sa.</hi> in any of their publike Com<g ref="char:EOLhyphen"/>plaints, or Petitions to the Parliament, but by private whiſ<g ref="char:EOLhyphen"/>pers and inſinuations: Nor have they otherwiſe proved any thing, tending to that end, but by ſurmiſe, and without know<g ref="char:EOLhyphen"/>ing hitherto, what he is able to anſwer for himſelf: And in
+<pb n="6" facs="tcp:175305:7" rendition="simple:additions"/>the mean time upon hearſay or Suſpition for any to condemn another, were a great Injuſtice, though perhaps merely for his Relations and obligations to the former Court) there may be ſome grounds for this Suſpition; which alſo in the Iſ<g ref="char:EOLhyphen"/>ſue will prove rather an injurious Malice and Imagina<g ref="char:EOLhyphen"/>tion, than any thing of Reality and Truth.</p>
+            </div>
+            <div n="6" type="objection">
+               <q>
+                  <hi>Object.</hi> 6. That he reſiſted the Authority of Parliament, in oppoſing Sir <hi>Thomas Bendiſh</hi> ſent Ambaſſador by them.</q>
+               <p>
+                  <hi>Anſw.</hi> 6. Sir <hi>Sa.</hi> denies he ever oppoſed Sir <hi>Thomas Bendiſh,</hi> though he confeſſes he did not help him; nor had reaſon, except bet<g ref="char:EOLhyphen"/>ter warranted, than he ever could diſcover to himſelf to be to this day, he conceiving the Company not able to prove, that Sir <hi>Thomas</hi> had any full Orders or effectual Commiſſion from the Parliament to be either the Ambaſſador extraordinary, or Ordinary, for this Nation, with the Grand Seignor; the Ordinance of Parliament produced by them, directs his going Ambaſſador, or Agent, or Conſull for the Merchants Af<g ref="char:EOLhyphen"/>fairs, not for the States; and this without any Superſedeas to Sir <hi>Sa.</hi> his Commiſſion, or mention of this Revocation in it, or in any other Order by the Parliament, that he ever ſaw or heard of. And Sir <hi>Tho.</hi> his Commiſſion (if he had any at all, any legal one) ought to have been agreeable to that war<g ref="char:EOLhyphen"/>rant whereon it was grounded, which Sir <hi>Tho.</hi> his was not.</p>
+               <p n="2">2. But if Sir <hi>Thomas</hi> had any ſuch Commiſſion; yet if he ne<g ref="char:EOLhyphen"/>ver ſhewed it, how could Sir <hi>Sa.</hi> be ſaid to diſobey it? the truth is, he never ſhewed it, nor pretended to any, but the late Kings Commiſſion, which he refuſed alſo to ſhew, or any other war<g ref="char:EOLhyphen"/>rant, for his Miſſion, when needfull, and required by Sir <hi>Sa.</hi>
+               </p>
+               <p n="3">3. Beſides thoſe Credentials delivered to the <hi>Vizier,</hi> brought with him for his Introduction, were under the High Commiſſion Seal, and Queen <hi>Elizabeths</hi> Arms (when
+<pb n="7" facs="tcp:175305:7" rendition="simple:additions"/>that Office had been caſt down by Parliament two years be<g ref="char:EOLhyphen"/>fore) And thoſe Seals never before that time ſeen beyond the Seas.</p>
+               <p n="4">4. And that Letter, which he brought for Sir <hi>Sa.</hi> his Revo<g ref="char:EOLhyphen"/>cation, was under a doubtfull, and no more authentique a Seal than the other, defaced at leaſt, and ſo the Signature alſo, if not counterfeit.</p>
+               <p n="5">5. So that the whole frame of his pretended Embaſſie, and every ſtep of his toward it, being juſtly to be ſuſpected (Sir <hi>Thomas</hi> not being able to prove ſo much as his Miſ<g ref="char:EOLhyphen"/>ſion, and refuſing to ſhew his Commiſsion) with the expence of 35000 <hi>l.</hi> levied on the Trade, and Nation, allowed (if not warranted) by the Company, purchaſed his Introduction, and (into the Bargain) the perſon of Sir <hi>Sackvile</hi> to be rendred into his and the Companies pow<g ref="char:EOLhyphen"/>er, and thereon inſtantly (and without Warrant or Au<g ref="char:EOLhyphen"/>thority from the late King, the then Parliament, or this State) ſent him Priſoner for <hi>England,</hi> plundred his Houſe, ſeiſed his <hi>Cancellaria,</hi> poſſeſt the Papers of his Embaſſie, Evi<g ref="char:EOLhyphen"/>dences of his Eſtate, turned his Wife, Children, and Fa<g ref="char:EOLhyphen"/>mily out of their Manſion Houſe, and in a barbarous manner ſent them after.</p>
+               <p>
+                  <hi>However</hi> upon theſe, and other like falſe ſuggeſtions by the Company, (to prolong their Sute) and after a ten years Impriſonment (hitherto without proof) through their Publique Clamours, and the Parliaments miſ-informa<g ref="char:EOLhyphen"/>tion, and their Incogniſance hitherto of the Truth, by Or<g ref="char:EOLhyphen"/>der of the firſt of <hi>May</hi> laſt, his Tryal at the Law (after Li<g ref="char:EOLhyphen"/>cence from the Protector, and Parliaments permiſſion) was ſtopped, (Juſt when all his Witneſſes were brought up to Town, ſome of them one hundred, and others two hun<g ref="char:EOLhyphen"/>dred miles off, the Jury ſummoned, his Council feed, and all things ready for a Hearing.)</p>
+               <p>
+                  <hi>Which</hi> being contrary to all Preſidents, conſtant Rules, and Declarations of all former Parliaments, he humbly yet
+<pb n="8" facs="tcp:175305:8" rendition="simple:additions"/>hopes (upon their better Information may be redreſſed.) And (notwithſtanding his being under Reference up<g ref="char:EOLhyphen"/>on any Subjects pretence againſt him whatever) that he may yet enjoy the Privilege of a Free-man, till con<g ref="char:EOLhyphen"/>demned, and by their favour be left at liberty to ſue his particular Right at the Common law; The benefit whereof was never yet denied to any, that had not Iu<g ref="char:EOLhyphen"/>dicially forfeited it, which he is confident to affirm, hath not hitherto been made good; nor (by the aſ<g ref="char:EOLhyphen"/>ſiſtance of, and Iuſtice of the Committee) will ever be pro<g ref="char:EOLhyphen"/>ved againſt him.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175305:8"/>
+            <pb facs="tcp:175305:9"/>
+            <pb facs="tcp:175305:9"/>
+            <pb facs="tcp:175305:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
